@@ -1,7 +1,7 @@
 import React from 'react'
-import Button from './class-components';
+import { Calculate2 } from './calculator';
 function App() {
-  return  <Button/>
+  return  <Calculate2/>
 }
 
 export default App;
